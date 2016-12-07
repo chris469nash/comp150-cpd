@@ -21,3 +21,6 @@ This week we began implementing audio into code. This task proved to be more dif
 
 ## Week 9
 This week i have handed in the tinkering graphics assignment. Due to my lack of effort for this assignment i fear it may be reffered for resubmission as there isn't much content within the program/s. We took a look at Travis to assist us with our COMP150 pre-production assignment, i'm still yet to look at it in depth and also set it up. 
+
+## Career goals
+In the near future my future career goals are within the game development industry, preferably within the programming side of things. Many game development studios look for young, enthusiastic employees with knowledge of a specific language. By focusing on one programming language then this will further my understanding of such language and therefore will become more fluent and easier to write and read/understand. 
