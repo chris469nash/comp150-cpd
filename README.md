@@ -1,5 +1,7 @@
 # comp150-cpd
 
+## Semester 1
+
 ## Week 1
 
 Over the past few weeks i had forgotten to update my personal log of each week therefore i shall start thus far.
@@ -24,3 +26,19 @@ This week i have handed in the tinkering graphics assignment. Due to my lack of 
 
 ## Career goals
 In the near future my future career goals are within the game development industry, preferably within the programming side of things. Many game development studios look for young, enthusiastic employees with knowledge of a specific language. By focusing on one programming language then this will further my understanding of such language and therefore will become more fluent and easier to write and read/understand. 
+
+## Semester 2
+
+## Week 1
+The first week was an amalgamation of getting used to the 9am starts and also making sure i'd gotten everything together. The first week was quite compact with lectures and workshops. I attended the Unreal Engine blueprints workshop but didn't get much done as it was hard to hear Brian over everyone else. We had our first PO meeting this week and had began making progress on our game project with the BAs.
+
+## Week 2
+Most of the BAs seem to be fairly motivated towards the COMP160 game project, a couple of them appear to have done little to no work over the past week. I have taken a look at multiple Unreal Engine tutorials, i have yet to complete any of them. Over the next few weeks i will attempt to complete these tutorials and see if they could be adapted for use in the Comp160 game project. 
+
+## Week 3
+A couple of the BAs wish to change courses but are unable until the end of the year, i feel like this has affected their motivation towards the game project and therefore are proucing very little or no work whatsoever. The number of members attending the stand-up meetings are reducing each week, i feel like this will affect the motivation of the whole team if it carries on. 
+
+## Week 4
+This week i have been rather ill and therefore have missed a few lectures. If i keep lectures then i fear i will penalise myself in the long run, i need to ensure that i will attend every lecture i have in future. 
+
+## Week 5
